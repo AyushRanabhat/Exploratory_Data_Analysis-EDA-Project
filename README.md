@@ -15,7 +15,7 @@ Exploratory analysis of publicly available retail sales data using SQL. Includes
 ## 📁 Project Structure
 
 The repository is organized into SQL scripts for sequential learning and analysis:
-
+```
 scripts/
 ├── 0.init_database.sql # Database setup and initial tables
 ├── 1.database_exploration.sql # Exploring tables, columns, and keys
@@ -31,7 +31,7 @@ scripts/
 ├── 11.data_segmentation.sql # Customer/product segmentation
 ├── 12.customers_report.sql # Customer-focused summary reports
 └── 13.products_report.sql # Product-focused summary reports
-
+```
 ---
 
 ## 🔍 Key Features
