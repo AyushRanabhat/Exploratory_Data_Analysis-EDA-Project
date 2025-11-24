@@ -16,21 +16,21 @@ Exploratory analysis of publicly available retail sales data using SQL. Includes
 
 The repository is organized into SQL scripts for sequential learning and analysis:
 ```
-scripts/
-├── 0.init_database.sql # Database setup and initial tables
-├── 1.database_exploration.sql # Exploring tables, columns, and keys
-├── 2.dimension_exploration.sql # Dimension tables and SCD checks
-├── 3.date_exploration.sql # Date ranges, gaps, and customer ages
-├── 4.measure_exploration.sql # Key metrics: sales, orders, products, customers
-├── 5.magnitude_analysis.sql # Segmenting products/customers, part-to-whole analysis
-├── 6.ranking_analysis.sql # Top/bottom products, customers, trends
-├── 7.change_over_month_analysis.sql # Month-over-month growth trends
-├── 8.cummulative_analysis.sql # Running totals and cumulative metrics
-├── 9.performance_analysis.sql # Yearly performance and trend evaluation
-├── 10.part_to_whole_analysis.sql # Contribution analysis by categories
-├── 11.data_segmentation.sql # Customer/product segmentation
-├── 12.customers_report.sql # Customer-focused summary reports
-└── 13.products_report.sql # Product-focused summary reports
+├── 0.init_database.sql             # Database setup and initial tables
+├── 1.database_exploration.sql      # Exploring tables, columns, and keys
+├── 2.dimension_exploration.sql     # Dimension tables and slowly changing dimension (SCD) checks
+├── 3.date_exploration.sql          # Date ranges, gaps, and customer ages
+├── 4.measure_exploration.sql       # Key metrics: sales, orders, products, customers
+├── 5.magnitude_analysis.sql        # Segmenting products/customers, part-to-whole analysis
+├── 6.ranking_analysis.sql          # Top/bottom products, customers, and trends
+├── 7.change_over_month_analysis.sql# Month-over-month growth trends
+├── 8.cummulative_analysis.sql      # Running totals and cumulative metrics
+├── 9.performance_analysis.sql      # Yearly performance and trend evaluation
+├── 10.part_to_whole_analysis.sql   # Contribution analysis by categories
+├── 11.data_segmentation.sql        # Customer/product segmentation
+├── 12.customers_report.sql         # Customer-focused summary reports
+└── 13.products_report.sql          # Product-focused summary reports
+
 ```
 ---
 
