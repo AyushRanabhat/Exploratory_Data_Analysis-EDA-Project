@@ -77,7 +77,14 @@ This project is licensed under the MIT License. Free to use, modify, and share w
 
 ## 🌟 About Me
 
-Hi, I'm **Ayush Ranabhat**, an aspiring data analyst with experience in finance and data handling through banking and clerical roles. This project reflects my SQL learning journey and practical skills development.
+## 🌟 About Me
+
+Hi, I'm **Ayush Ranabhat**. I’m an aspiring data analyst with a background in finance and hands-on experience working with data in banking and clerical roles. Currently, I’m self-learning and building data warehouse and analytics projects to sharpen my skills and gain a deeper understanding of data systems.  
+
+If you notice anything that can be improved in this project, I’d really appreciate your feedback.  
+
+A quick thanks to **Baraa Khatib Salkini (Data With Baraa)** for the free course, materials, inspiration, and support.
+
 
 ---
 
